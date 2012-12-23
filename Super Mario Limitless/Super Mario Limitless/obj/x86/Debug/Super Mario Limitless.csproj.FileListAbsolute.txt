@@ -1,0 +1,12 @@
+C:\Users\Joey\Documents\Visual Studio 2010\Projects\Super Mario Limitless\Super Mario Limitless\Super Mario Limitless\obj\x86\Debug\Super Mario Limitless.csprojResolveAssemblyReference.cache
+C:\Users\Joey\Documents\Visual Studio 2010\Projects\Super Mario Limitless\Super Mario Limitless\Super Mario Limitless\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joey\Documents\Visual Studio 2010\Projects\Super Mario Limitless\Super Mario Limitless\Super Mario Limitless\bin\x86\Debug\Super Mario Limitless.exe
+C:\Users\Joey\Documents\Visual Studio 2010\Projects\Super Mario Limitless\Super Mario Limitless\Super Mario Limitless\bin\x86\Debug\Super Mario Limitless.pdb
+C:\Users\Joey\Documents\Visual Studio 2010\Projects\Super Mario Limitless\Super Mario Limitless\Super Mario Limitless\obj\x86\Debug\Super Mario Limitless.exe
+C:\Users\Joey\Documents\Visual Studio 2010\Projects\Super Mario Limitless\Super Mario Limitless\Super Mario Limitless\obj\x86\Debug\Super Mario Limitless.pdb
+C:\Users\Joey\Documents\Dropbox\Super Mario Limitless\Super Mario Limitless\Super Mario Limitless\bin\x86\Debug\Super Mario Limitless.exe
+C:\Users\Joey\Documents\Dropbox\Super Mario Limitless\Super Mario Limitless\Super Mario Limitless\bin\x86\Debug\Super Mario Limitless.pdb
+C:\Users\Joey\Documents\Dropbox\Super Mario Limitless\Super Mario Limitless\Super Mario Limitless\obj\x86\Debug\Super Mario Limitless.csprojResolveAssemblyReference.cache
+C:\Users\Joey\Documents\Dropbox\Super Mario Limitless\Super Mario Limitless\Super Mario Limitless\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joey\Documents\Dropbox\Super Mario Limitless\Super Mario Limitless\Super Mario Limitless\obj\x86\Debug\Super Mario Limitless.exe
+C:\Users\Joey\Documents\Dropbox\Super Mario Limitless\Super Mario Limitless\Super Mario Limitless\obj\x86\Debug\Super Mario Limitless.pdb

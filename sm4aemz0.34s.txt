@@ -1,0 +1,42 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   Super Mario Limitless.sln
+#	new file:   Super Mario Limitless/Super Mario Limitless - Content/Super Mario Limitless - Content.contentproj
+#	new file:   Super Mario Limitless/Super Mario Limitless - Content/obj/x86/Debug/ContentPipeline.xml
+#	new file:   Super Mario Limitless/Super Mario Limitless - Content/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   Super Mario Limitless/Super Mario Limitless - Content/obj/x86/Debug/Super Mario LimitlessContent.contentproj.FileListAbsolute.txt
+#	new file:   Super Mario Limitless/Super Mario Limitless - Content/obj/x86/Debug/Super Mario LimitlessContent.contentprojResolveAssemblyReference.cache
+#	new file:   Super Mario Limitless/Super Mario Limitless/Game.cs
+#	new file:   Super Mario Limitless/Super Mario Limitless/Icon.ico
+#	new file:   Super Mario Limitless/Super Mario Limitless/Program.cs
+#	new file:   Super Mario Limitless/Super Mario Limitless/Properties/AssemblyInfo.cs
+#	new file:   Super Mario Limitless/Super Mario Limitless/Super Mario Limitless.csproj
+#	new file:   Super Mario Limitless/Super Mario Limitless/Super Mario Limitless.csproj.user
+#	new file:   Super Mario Limitless/Super Mario Limitless/Thumbnail.png
+#	new file:   Super Mario Limitless/Super Mario Limitless/bin/x86/Debug/Super Mario Limitless.exe
+#	new file:   Super Mario Limitless/Super Mario Limitless/bin/x86/Debug/Super Mario Limitless.pdb
+#	new file:   Super Mario Limitless/Super Mario Limitless/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   Super Mario Limitless/Super Mario Limitless/obj/x86/Debug/Microsoft.Xna.Framework.RuntimeProfile.txt
+#	new file:   Super Mario Limitless/Super Mario Limitless/obj/x86/Debug/Super Mario Limitless.csproj.FileListAbsolute.txt
+#	new file:   Super Mario Limitless/Super Mario Limitless/obj/x86/Debug/Super Mario Limitless.csprojResolveAssemblyReference.cache
+#	new file:   Super Mario Limitless/Super Mario Limitless/obj/x86/Debug/Super Mario Limitless.exe
+#	new file:   Super Mario Limitless/Super Mario Limitless/obj/x86/Debug/Super Mario Limitless.pdb
+#	new file:   Super Mario Limitless/Super Mario Limitless/smb3-bros.png
+#	new file:   Super Mario Limitless/Super Mario Limitless/smb3-buzzybeetle.png
+#	new file:   Super Mario Limitless/Super Mario Limitless/smb3-drybones.png
+#	new file:   Super Mario Limitless/Super Mario Limitless/smb3-goomba.png
+#	new file:   Super Mario Limitless/Super Mario Limitless/smb3-koopatroopa.png
+#	new file:   Super Mario Limitless/Super Mario Limitless/smb3-lakitu.png
+#	new file:   Super Mario Limitless/Super Mario Limitless/smb3-parabeetle.png
+#	new file:   Super Mario Limitless/Super Mario Limitless/smb3-spiny.png
+#	new file:   Super Mario Limitless/Super Mario Limitless/smb3-throwables.png
+#
+
